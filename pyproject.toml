@@ -1,0 +1,16 @@
+[project]
+name = "post-ai-services"
+version = "0.1.0"
+description = "تشخیص محتوای تبلیغاتی و ممنوع در متن فارسی"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
