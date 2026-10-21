@@ -1,0 +1,31 @@
+# پیام‌رسان‌ها: با نقطه = میزبان کامل، بدون نقطه = نام دامنه
+
+# با نقطه (دامنه‌ی ثبت‌شده‌شون کوتاهه)
+t.me
+wa.me
+telegram.me
+telegram.dog
+ble.ir
+eitaa.com
+rubika.ir
+igap.net
+soroush-app.ir
+splus.ir
+
+# بدون نقطه (نام دامنه)
+telegram
+whatsapp
+bale
+rubika
+eitaa
+igap
+soroush
+gap
+splus
+instagram
+signal
+viber
+wechat
+line
+skype
+discord
